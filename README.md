@@ -1,5 +1,6 @@
 # UCCITApp
 Name: Dalvin Wray 
+
 Student ID#: 20216185
  
 <img src="https://github.com/DalvinWray/UCCITApp/assets/122240870/54912fa9-b55a-46b8-aa9d-6bbe3e8862df" width=30% height=30%>
