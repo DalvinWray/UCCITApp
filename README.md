@@ -10,7 +10,11 @@ Student ID#: 20216185
  
  
 <img src="https://github.com/DalvinWray/UCCITApp/assets/122240870/7e87a46f-a12b-4f7e-8c91-8fb0ec2a4a77" width=30% height=30%>
+ 
+ 
  2. View Some Courses Available (This sections fetches data from firebase firestore)
+
+
  <img src="https://github.com/DalvinWray/UCCITApp/assets/122240870/99e62a46-336b-4543-b440-e35b1f1eb4b8" width=30% height=30%>
 
 <img src="https://github.com/DalvinWray/UCCITApp/assets/122240870/57694602-3805-400e-83d5-eaa2fa3ff654" width=30% height=30%>
