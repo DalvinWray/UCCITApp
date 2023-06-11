@@ -3,7 +3,7 @@ Name: Dalvin Wray
 Student ID#: 20216185
  
 
- <img width='375px' height='500px' src='(https://github.com/DalvinWray/UCCITApp/assets/122240870/426794ce-5483-49ee-a9ca-c2598e313efc)'/>
+ ![Screenshot_20230611-084228](https://github.com/DalvinWray/UCCITApp/assets/122240870/54912fa9-b55a-46b8-aa9d-6bbe3e8862df){:height="100px" width="100px"}.
  An application for the Univeresity of the Commonwealth Caribbean that allows user to :
  
  1. View the faculty members and contact them
